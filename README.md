@@ -4,6 +4,7 @@
 
 ## Table
 - Running Application
+- User Questions
 - Long Term Goals
 - MVP (Original)
 - Extensions (Original)
@@ -26,6 +27,12 @@
 
 Why are we doing this project?
 - To enhance the learning experience around the Star Wars Franchise.
+
+## User Questions
+- What user needs is your product going to answer? Can you document them?
+- Why would your users want to use your product over something similar that they've seen elsewhere?
+- How could you make sure that your web app uses interface solutions that users are familiar with so that it is intuitive to use?
+- What is the user journey — how will users interact with your product, and how many steps will be necessary to complete their goals?
 
 ## MVP (Original)
 - Users should be able to click characters, planets, etc. to return information from API. ✓
