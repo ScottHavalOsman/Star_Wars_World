@@ -1,4 +1,4 @@
-# Group Project: Star Wars World
+# Group Project: Star Wars World
 
 - Time Allowance: 18th January, 2019 - 23rd January, 2019
 
@@ -21,14 +21,14 @@
 4. npm run server:dev
 5. Open up in your browser: https://localhost:3000
 
-## Long Term Goals
+## Long Term Goals
 - For Star Wars fans to increase their knowledge to then test with quizzes.
 - Allow the user to create a profile and store their scores and compare with future users of the site.
 
 Why are we doing this project?
 - To enhance the learning experience around the Star Wars Franchise.
 
-## User Questions
+## User Questions
 - What user needs is your product going to answer? Can you document them?
 - Why would your users want to use your product over something similar that they've seen elsewhere?
 - How could you make sure that your web app uses interface solutions that users are familiar with so that it is intuitive to use?
@@ -45,15 +45,15 @@ Why are we doing this project?
 - Users should be able to enter their details at the beginning of the page to form a profile. X
 - Users should be able to create a character within their profile. X
 
-## Incomplete Originals
+## Incomplete Originals
 - Users should be able to compare their quiz scores with prior users. X
 - Users should be able to edit and delete their profile. X
 - Users should be able to take multiple quizzes and view their quiz history. ✓/X
 - Users should be able to enter their details at the beginning of the page to form a profile. X
 - Users should be able to create a character within their profile. X
 
-## Status
+## Status
 - Project Incomplete
 
-## Tech Stack
+## Tech Stack
 - Javascript, Express, MongoDB, HTML and CSS
