@@ -4,12 +4,12 @@ Time Allowance: 18th January, 2019 - 23rd January, 2019
 
 Table:
 
-Running Application
-MVP (Original)
-Extensions (Original)
-Incomplete Originals
-Status
-Tech Stack
+- Running Application
+- MVP (Original)
+- Extensions (Original)
+- Incomplete Originals
+- Status
+- Tech Stack
 
 Running Application:
 
