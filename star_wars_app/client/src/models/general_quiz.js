@@ -19,7 +19,7 @@ GeneralQuiz.prototype.getData = function(){
 }
 
 GeneralQuiz.prototype.bindEvents = function(){
-  PubSub.subscribe('AnswerView:answers-submitted', (evt) => {
+  PubSub.subscribe('GeneralAnswerView:answers-submitted', (evt) => {
     const questionAnswers = this.generalQuiz;
     const answers = evt.detail;
 

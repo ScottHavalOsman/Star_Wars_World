@@ -68,7 +68,7 @@ GeneralQuizListView.prototype.handleSubmit = function(form){
 
   console.log('answerObject', answerObject);
 
-  PubSub.publish('AnswerView:answers-submitted', answerObject);
+  PubSub.publish('GeneralAnswerView:answers-submitted', answerObject);
 };
 
 
