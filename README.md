@@ -56,4 +56,4 @@ Why are we doing this project?
 - Project Incomplete
 
 ## Tech Stack
-- Javascript, Express, MongoDB, HTML and CSS
+- Javascript, Express, MongoDB, HTML5 and CSS3
