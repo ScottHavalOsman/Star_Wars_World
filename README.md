@@ -34,26 +34,5 @@ Why are we doing this project?
 - How could you make sure that your web app uses interface solutions that users are familiar with so that it is intuitive to use?
 - What is the user journey — how will users interact with your product, and how many steps will be necessary to complete their goals?
 
-## MVP (Original)
-- Users should be able to click characters, planets, etc. to return information from API. ✓
-- Users should be able to take a quiz and view their final scores. ✓
-- Users should be able to compare their quiz scores with prior users. X
-- Users should be able to edit and delete their profile. X
-
-## Extensions (Original)
-- Users should be able to take multiple quizzes and view their quiz history. ✓/X
-- Users should be able to enter their details at the beginning of the page to form a profile. X
-- Users should be able to create a character within their profile. X
-
-## Incomplete Originals
-- Users should be able to compare their quiz scores with prior users. X
-- Users should be able to edit and delete their profile. X
-- Users should be able to take multiple quizzes and view their quiz history. ✓/X
-- Users should be able to enter their details at the beginning of the page to form a profile. X
-- Users should be able to create a character within their profile. X
-
-## Status
-- Project Incomplete
-
 ## Tech Stack
 - Javascript, Express, MongoDB, HTML5 and CSS3
