@@ -18,8 +18,9 @@
 1. npm install
 2. mongod
 3. npm run build
-4. npm run server:dev
-5. Open up in your browser: https://localhost:3000
+4. nodemon
+5. npm run server:dev
+6. Open up in your browser: https://localhost:3000
 
 ## Long Term Goals
 - For Star Wars fans to increase their knowledge to then test with quizzes.
